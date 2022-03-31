@@ -8,4 +8,4 @@ description: Activities
 
 We will conduct Token burn from time to time, it will not be everyday, but difinitely we will burn it. We may put to vote with the community to decide the "when" and the "amount". This will give the community to decide collectively the burning exercise of Fuyoh Token.
 
-Once we have burn it, the proof of burn address will be published.&#x20;
+Once we have burn it, the proof of burn will be published. All burning wll be send to this address: [0x000000000000000000000000000000000000dEaD](https://bscscan.com/address/0x000000000000000000000000000000000000dead)&#x20;
