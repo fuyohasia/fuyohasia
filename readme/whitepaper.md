@@ -4,6 +4,8 @@ description: A Meme Token Whitepaper
 
 # Whitepaper
 
+{% embed url="https://my.visme.co/view/01p060k6-3ezl33q7m0rxl0q1" %}
+
 1 - Token Deploy on BSC
 
 2 - Conduct EDO on DODO Crowdpooling and add liquidity to Pancakeswap
