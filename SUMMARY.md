@@ -3,3 +3,6 @@
 * [README](README.md)
   * [Privacy Policy](readme/privacy-policy.md)
   * [Terms & Conditions](readme/terms-and-conditions.md)
+* [Plans & Activities](plans-and-activities/README.md)
+  * [Token Burn](plans-and-activities/token-burn.md)
+* [Page 1](page-1.md)
