@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Terms & Policy](README.md)
   * [Privacy Policy](readme/privacy-policy.md)
   * [Terms & Conditions](readme/terms-and-conditions.md)
 * [Plans & Activities](plans-and-activities/README.md)
