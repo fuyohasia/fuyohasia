@@ -8,4 +8,5 @@
   * [Supprise Airdrop](plans-and-activities/supprise-airdrop.md)
   * [Events](plans-and-activities/events.md)
   * [NFT](plans-and-activities/nft.md)
+  * [Games](plans-and-activities/games.md)
 * [Page 1](page-1.md)
