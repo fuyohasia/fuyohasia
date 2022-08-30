@@ -6,7 +6,7 @@
   * [Whitepaper](readme/whitepaper.md)
 * [Plans & Activities](plans-and-activities/README.md)
   * [Token Burn](plans-and-activities/token-burn.md)
-  * [Supprise Airdrop](plans-and-activities/supprise-airdrop.md)
+  * [Suprise Airdrop](plans-and-activities/suprise-airdrop.md)
   * [Community Events](plans-and-activities/community-events.md)
   * [Social Media Platform](plans-and-activities/social-media-platform.md)
   * [DEX Games](plans-and-activities/dex-games.md)
