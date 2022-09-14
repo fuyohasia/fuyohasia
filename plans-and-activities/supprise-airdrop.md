@@ -12,3 +12,7 @@ Nonetheless, it will not be the same address. Each wallet address that previousl
 
 Recent Surprise Airdrop: **26th - 27th** August 2022 \
 Amount: **92082919.1** FYH (Polygon)
+
+Random Surprise Airdrop conducted on 14th September 2022\
+Amount: 17657818.16 FYH
+
