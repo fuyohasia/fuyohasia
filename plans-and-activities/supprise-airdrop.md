@@ -11,8 +11,11 @@ Nonetheless, it will not be the same address. Each wallet address that previousl
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Recent Surprise Airdrop: **26th - 27th** August 2022 \
-Amount: **92082919.1** FYH (Polygon)
+Amount: **92,082,919.1** FYH (Polygon)
 
 Random Surprise Airdrop conducted on 14th September 2022\
-Amount: 17657818.16 FYH
+Amount: 17,657,818.16 FYH (Polygon)
+
+Random Surprise Airdrop conducted on 17th September 2022\
+Amount: 60,060,605.9999992 FYH (Polygon)
 
