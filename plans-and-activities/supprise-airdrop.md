@@ -10,16 +10,14 @@ We believe in giving away free tokens to the community without having to announc
 
 Nonetheless, it will not be the same address. Each wallet address that previously received a surprise airdrop, will be blocked from our Surprise Airdrop list.
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Recent Surprise Airdrop: **26th - 27th** August 2022 \
 Amount: **92,082,919.1** FYH (Polygon)
 
-Random Surprise Airdrop conducted on 14th September 2022\
-Amount: 17,657,818.16 FYH (Polygon)
+Random Surprise Airdrop conducted on **14th September 2022**\
+Amount: **17,657,818.16 FYH** (Polygon)
 
-Random Surprise Airdrop conducted on 17th September 2022\
-Amount: 60,060,605.9999992 FYH (Polygon)
+Random Surprise Airdrop conducted on **17th September 2022**\
+Amount: **60,060,605.9999992 FYH** (Polygon)
 
