@@ -21,3 +21,6 @@ Amount: **17,657,818.16 FYH** (Polygon)
 Random Surprise Airdrop conducted on **17th September 2022**\
 Amount: **60,060,605.9999992 FYH** (Polygon)
 
+Random Surprise Airdrop conducted on **25th September 2022**\
+Amount: **60,060,605.9999992 FYH** (Polygon)
+
