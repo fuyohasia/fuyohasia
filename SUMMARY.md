@@ -14,4 +14,5 @@
   * [Token Rewards](plans-and-activities/token-rewards.md)
   * [Swap & Exchanges](plans-and-activities/swap-and-exchanges.md)
   * [Online Shopping](plans-and-activities/online-shopping.md)
+  * [Investment Plan](plans-and-activities/investment-plan.md)
 * [Page 1](page-1.md)
