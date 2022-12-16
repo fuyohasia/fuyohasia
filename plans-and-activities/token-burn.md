@@ -12,6 +12,11 @@ Once we have burn it, the proof of burn will be published. All burning will be s
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Burned Date:
+Burned Date: 16/12/2022
 
-Burned Amount:
+Burned Amount: 980,000,000
+
+Transaction Details: [https://polygonscan.com/tx/0x1db9ce915041a593fb4b46a81dbe2ce588e6bee974306cd024bbec73c7a0488e](https://polygonscan.com/tx/0x1db9ce915041a593fb4b46a81dbe2ce588e6bee974306cd024bbec73c7a0488e)
+
+This is first Burn - \
+Note: We send 1,000,000,000 to burned, but seems 20,000,000 deducted as fees.
