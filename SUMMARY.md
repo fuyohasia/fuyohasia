@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+  * [Token security](readme/token-security.md)
   * [Privacy Policy](readme/privacy-policy.md)
   * [Terms & Conditions](readme/terms-and-conditions.md)
   * [Whitepaper](readme/whitepaper.md)
