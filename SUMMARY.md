@@ -5,6 +5,7 @@
   * [Privacy Policy](readme/privacy-policy.md)
   * [Terms & Conditions](readme/terms-and-conditions.md)
   * [Whitepaper](readme/whitepaper.md)
+  * [FYH Token](readme/fyh-token.md)
 * [Plans & Activities](plans-and-activities/README.md)
   * [Token Burn](plans-and-activities/token-burn.md)
   * [Surprise Airdrop](plans-and-activities/supprise-airdrop.md)
