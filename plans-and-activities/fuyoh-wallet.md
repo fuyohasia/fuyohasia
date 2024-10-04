@@ -1,5 +1,5 @@
 ---
-description: A non-custodial web wallet
+description: A non-custodial web wallet (Under Maintenance)
 ---
 
 # Fuyoh Wallet
