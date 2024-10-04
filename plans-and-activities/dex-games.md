@@ -10,3 +10,5 @@ This will give Fuyoh token holder the ability to use Fuyoh token to play games a
 
 We will also build and deploy our own Game site but it will not be Crypto Related as we want it to be for place community to to hang out.
 
+Unfortunately, DEX Asian stop it Game. FuYoH may take over it soon
+
