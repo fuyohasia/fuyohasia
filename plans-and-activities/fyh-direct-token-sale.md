@@ -160,7 +160,7 @@ The FYH token is meticulously designed to foster community engagement and partic
   * **30%** reserved for liquidity
   * **20%** for community rewards
   * **10%** for development
-* **Token Sale Price:** 1 BNB = 9,710,523,276,192 FYH (Estimated)
+* **Token Sale Price:** 1 BNB = 12,864,629,680,499 FYH (Estimated)
 * **Liquidity Pool:** 30% of the total supply is locked into the PancakeSwap liquidity pool to ensure market stability and liquidity.
 
 ***
