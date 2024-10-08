@@ -1,4 +1,4 @@
-# FYH Direct Token Sale
+# FYH Direct Token Sale (FYH / BNB)
 
 ## FYH Direct Token Sale Guide
 
@@ -156,11 +156,11 @@ The FYH token is meticulously designed to foster community engagement and partic
 
 * **Total Supply:** 10,000,000,000,000,000.00 FYH
 * **Initial Distribution:**
-  * **40%** available for direct sale
-  * **30%** reserved for liquidity
+  * **70%** available for Direct sale / Trade (PancakeSwap)
   * **20%** for community rewards
   * **10%** for development
-* **Token Sale Price:** 1 BNB = 12,864,629,680,499 FYH (Estimated)
+* **Token Sale Price:** 1 BNB = 63,211,125,158,027.82 FYH (Estimated) (Go See Live price at [https://coinmarketcap.com/dexscan/bsc/0xc677398b05ebb3de0f2bf05fef2d5320a6cd479c/](https://coinmarketcap.com/dexscan/bsc/0xc677398b05ebb3de0f2bf05fef2d5320a6cd479c/)\
+  or [https://www.geckoterminal.com/bsc/pools/0xc677398b05ebb3de0f2bf05fef2d5320a6cd479c](https://www.geckoterminal.com/bsc/pools/0xc677398b05ebb3de0f2bf05fef2d5320a6cd479c)
 * **Liquidity Pool:** 30% of the total supply is locked into the PancakeSwap liquidity pool to ensure market stability and liquidity.
 
 ***

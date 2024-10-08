@@ -7,7 +7,7 @@
   * [Terms & Conditions](readme/terms-and-conditions.md)
   * [Whitepaper](readme/whitepaper.md)
 * [Plans & Activities](plans-and-activities/README.md)
-  * [FYH Direct Token Sale](plans-and-activities/fyh-direct-token-sale.md)
+  * [FYH Direct Token Sale (FYH / BNB)](plans-and-activities/fyh-direct-token-sale-fyh-bnb.md)
   * [Token Burn](plans-and-activities/token-burn.md)
   * [Surprise Airdrop](plans-and-activities/supprise-airdrop.md)
   * [Community Events](plans-and-activities/community-events.md)
