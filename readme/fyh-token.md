@@ -10,9 +10,17 @@ Symbol: FYH \
 Chain: BINANCE / POLYGON\
 
 
-Circulating Amount\
+Circulating Amount (FYH Polygon)\
 [https://www.fuyoh.asia/fyh.php?q=circulating](https://www.fuyoh.asia/fyh.php?q=circulating)
 
 Total Coins\
 [https://www.fuyoh.asia/fyh.php?q=totalcoins](https://www.fuyoh.asia/fyh.php?q=totalcoins)
+
+
+
+Circulating Amount (FYH BNB)\
+Available soon
+
+Total Coins\
+Available soon
 
