@@ -8,7 +8,7 @@
   * [Whitepaper](readme/whitepaper.md)
 * [FYH Token (BSC) Purchase Instruction](fyh-token-bsc-purchase-instruction.md)
 * [Plans & Activities](plans-and-activities/README.md)
-  * [FYH Direct Token Sale (FYH / BNB)](plans-and-activities/fyh-direct-token-sale-fyh-bnb.md)
+  * [FYH Direct Token (BSC) Sale](plans-and-activities/fyh-direct-token-bsc-sale.md)
   * [Token Burn](plans-and-activities/token-burn.md)
   * [Surprise Airdrop](plans-and-activities/supprise-airdrop.md)
   * [Community Events](plans-and-activities/community-events.md)
