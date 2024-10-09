@@ -6,7 +6,7 @@
   * [Privacy Policy](readme/privacy-policy.md)
   * [Terms & Conditions](readme/terms-and-conditions.md)
   * [Whitepaper](readme/whitepaper.md)
-* [FYH Token Purchase Instruction](fyh-token-purchase-instruction.md)
+* [FYH Token (BSC) Purchase Instruction](fyh-token-bsc-purchase-instruction.md)
 * [Plans & Activities](plans-and-activities/README.md)
   * [FYH Direct Token Sale (FYH / BNB)](plans-and-activities/fyh-direct-token-sale-fyh-bnb.md)
   * [Token Burn](plans-and-activities/token-burn.md)
