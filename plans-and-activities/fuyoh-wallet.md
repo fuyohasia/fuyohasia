@@ -4,9 +4,7 @@ description: A non-custodial web wallet (Under Maintenance)
 
 # Fuyoh Wallet
 
-FuYoH Wallet is a non-custodial Wallet that works with your Metamask & Wallet Connect
-
-Try Now at: [https://wallet.fuyoh.asia/](https://wallet.fuyoh.asia/)
+Removed & adding a new Wallet to support our Social Media Platform
 
 ![](../.gitbook/assets/1.png)
 
